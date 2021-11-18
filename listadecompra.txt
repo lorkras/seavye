@@ -1,0 +1,12 @@
+Nombre: r
+Cantidad: 1.0
+
+Nombre: sa
+Cantidad: 1.0
+
+Nombre: re
+Cantidad: 12.0
+
+Nombre: soda
+Cantidad: 11.0
+
