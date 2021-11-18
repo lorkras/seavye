@@ -1,0 +1,25 @@
+Orden de los datos
+Nombre Alimento, Cantidad Alimento, Calorias, Grasas, Azucares
+
+d,2,3.0,4.0,5.0,alimento saludable
+
+Orden de los datos
+Nombre Alimento, Cantidad Alimento, Calorias, Grasas, Azucares
+
+r,2,3.0,4.0,5.0,alimento saludable
+
+Orden de los datos
+Nombre Alimento, Cantidad Alimento, Calorias, Grasas, Azucares
+
+sa,2,23.0,34.0,45.0,alimento poco saludable 
+
+Orden de los datos
+Nombre Alimento, Cantidad Alimento, Calorias, Grasas, Azucares
+
+re,32,3.0,3.0,3.0,alimento saludable
+
+Orden de los datos
+Nombre Alimento, Cantidad Alimento, Calorias, Grasas, Azucares
+
+soda,45,34.0,32.0,32.0,alimento poco saludable 
+
